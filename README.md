@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Piotr 👋
 
-<!--
-**PiotrChuszno/PiotrChuszno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data-Driven Operations Specialist** and aspiring **Fund Accountant** based in Warsaw.
+I bridge the gap between **Logistics/Operations** and **Capital Markets**, using my technical skills (Python, SQL, Tableau) to automate processes and analyze financial data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📺 Guest Lecture & Live Demo
+I was recently invited as a Guest Speaker on a US Investment Channel to discuss **Scoring Models** and **Backtesting Strategies**.
+
+**Topic:** *From Excel to Python: Risk Parity & Portfolio Scoring Models*
+👉 **[Click here to watch the full lecture on YouTube](https://www.youtube.com/watch?v=kf05dPWPwHc)**
+
+---
+
+### 🚀 My Projects
+Check out my repositories below regarding **Intrinsic Value Calculation** and **Risk Management**, which demonstrate my practical approach to finance.
